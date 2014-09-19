@@ -33,19 +33,19 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: DemKyun
-  avatar: bio-photo.jpg
+  avatar: site-logo.png
   email: you@email.com
   disqus-shortname:
   twitter: DemKyun
-  facebook: #username
+  facebook: pages/Demkyun/826909960687621?ref=hl
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: DemKyun
-  flickr: DemKyun
+  instagram: #DemKyun
+  flickr: #DemKyun
   tumblr: #username
   google:
-    plus: #username
+    plus: DemKyun
     analytics:
     verify:
     ad-client:
