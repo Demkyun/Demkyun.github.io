@@ -12,7 +12,7 @@ On that note I'd like to introduce Dem's AniWabi (Anime-Wanna-be)Project where w
 The main focus of this will be Manga and Anime with all the trimmings. I hope by the end of all this we'll have a small collection of manga with at least one sent to print, a collection short animations (1-2min) and a short OVA(10-20min), a Light Novel and a Visual Novel.
 This all seems like a daunting task but once the ball gets rolling, I think much of the work will overlap.
 
-Anime we see today is made by hundreds of people over the course of 6 months to a year. Being a smaller group not funded by any conglomerate (yet), I hope to make a shorter product over a longer period of time so as to not sacrifice quality.
+Anime we see today is made by hundreds of people over the course of 6 months to a year. Being a smaller group not sponsored  by any big company (yet), I hope to make a shorter product over a longer period of time so as to not sacrifice quality.
 The end product will be available to all digitally free of charge! If we make something spectacular or send to print in which case we'll charge a reasonable fee (coffee money). The funds from such a thing will be used as cost recovery and then distributed amongst core staff. 
 
 Participation in such an endeavour is not limited to the core members of Dem and we hope that all those who want to participate - will. Get in touch with us on Twitter or Facebook (links bellow) or email us at Demkyun@gmail.com if you want to help or learn more.
