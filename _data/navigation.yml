@@ -1,5 +1,8 @@
 # Site navigation links
 
+- title: Home
+  url:
+  
 - title: About
   url: /about/
 
@@ -15,8 +18,8 @@
 - title: Made Mistakes
   url: http://mademistakes.com
   
-  title: Google
+- title: Google
   url: http://Google.ca
     
-  title: Test
+- title: Test
   url: /test/
