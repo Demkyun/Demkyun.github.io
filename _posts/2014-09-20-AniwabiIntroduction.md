@@ -3,6 +3,9 @@ layout: post
 title: The Birth of an Endeavour - AniWabi
 category: AniWabi
 tags: [aniwabi,Wall o' Text]
+image:
+   feature: aniwabi.png
+   credit: DemPictures
 --- 
 
 
