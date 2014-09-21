@@ -16,11 +16,12 @@ The main focus of this will be Manga and Anime with all the trimmings. I hope by
 This all seems like a daunting task but once the ball gets rolling, I think much of the work will overlap.
 
 Anime we see today is made by hundreds of people over the course of 6 months to a year. Being a smaller group not sponsored  by any big company (yet), I hope to make a shorter product over a longer period of time so as to not sacrifice quality.
-The end product will be available to all digitally free of charge! If we make something spectacular or send to print in which case we'll charge a reasonable fee (coffee money). The funds from such a thing will be used as cost recovery and then distributed amongst core staff. 
+The end product will be available to all digitally free of charge! If we make something spectacular or send to print, we'll charge a reasonable fee (coffee money). The funds from such a thing will be used as cost recovery and then distributed amongst core staff. 
 
 Participation in such an endeavour is not limited to the core members of Dem and we hope that all those who want to participate - will. Get in touch with us on Twitter or Facebook (links bellow) or email us at Demkyun@gmail.com if you want to help or learn more.
 We don't really know what we're doing so initial work will be.....poor...maybe. 
 Initial content will follow - eventually.
 
-If you help, do not expect to get paid, do not ask to get paid, feel free to refuse being paid. If you MUST be paid, we ask you utilise your skills elsewhere.
+If you help, do not expect to get paid, do not ask to get paid, feel free to refuse being paid. 
+<b>If you MUST be paid, we ask you utilise your skills elsewhere.</b>
 
