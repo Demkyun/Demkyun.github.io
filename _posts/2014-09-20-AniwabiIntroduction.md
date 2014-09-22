@@ -17,10 +17,10 @@ This all seems like a daunting task but once the ball gets rolling, I think much
 
 Anime we see today is made by hundreds of people over the course of 6 months to a year. Being a smaller group not sponsored  by any big company (yet), I hope to make a shorter product over a longer period of time so as to not sacrifice quality.
 The end product will be available to all digitally free of charge! If we make something spectacular or send to print, we'll charge a reasonable fee (coffee money). The funds from such a thing will be used as cost recovery and then utilised to support other aspects of Dem. Those who help will of course have their content published to the website and credited in all relevant products.
-
+ We don't expect to make much, or any money, off this so the best we can do is gift active participants a shirt with one of our original designs as thanks.  
 
 Participation in such an endeavour is not limited to the core members of Dem and we hope that all those who want to participate - will. Get in touch with us on Twitter or Facebook (links bellow) or email us at Demkyun@gmail.com if you want to help or learn more.
-We don't expect to make much, or any money, off this so the best we can do is gift active participants a shirt with one of our original designs as thanks.  
+
 We don't really know what we're doing so initial work will be.....poor...maybe. 
 Initial content will follow - eventually.
 
